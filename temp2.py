@@ -1,5 +1,7 @@
 from random import randint
-
+"""
+Warrior, Mage и Healer наследники класса Character.
+"""
 # Новый импорт.
 # Из модуля start_game_banner, который расположен в папке graphic_arts,
 # импортируем функцию run_screensaver().
